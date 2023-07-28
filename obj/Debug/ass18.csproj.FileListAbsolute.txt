@@ -1,0 +1,8 @@
+D:\28-07\ass18\ass18\bin\Debug\ass18.exe.config
+D:\28-07\ass18\ass18\bin\Debug\ass18.exe
+D:\28-07\ass18\ass18\bin\Debug\ass18.pdb
+D:\28-07\ass18\ass18\obj\Debug\ass18.csproj.AssemblyReference.cache
+D:\28-07\ass18\ass18\obj\Debug\ass18.csproj.SuggestedBindingRedirects.cache
+D:\28-07\ass18\ass18\obj\Debug\ass18.csproj.CoreCompileInputs.cache
+D:\28-07\ass18\ass18\obj\Debug\ass18.exe
+D:\28-07\ass18\ass18\obj\Debug\ass18.pdb
